@@ -59,3 +59,4 @@ Decision trees are used in retail (shopping) establishments and internet retaile
 
 OUTPUT : 
 <img width="866" height="884" alt="Image" src="https://github.com/user-attachments/assets/51cc1f64-901a-4f3f-a5d9-c6dd8b8536d0" />
+<img width="1491" height="992" alt="Image" src="https://github.com/user-attachments/assets/76a18cc8-3ec7-42b1-8ed1-fc62cf7d9d94" />
