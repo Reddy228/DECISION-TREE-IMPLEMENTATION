@@ -58,3 +58,4 @@ Banking Decision trees are used by banks to determine whether a person is a good
 Decision trees are used in retail (shopping) establishments and internet retailers.
 
 OUTPUT : 
+<img width="866" height="884" alt="Image" src="https://github.com/user-attachments/assets/51cc1f64-901a-4f3f-a5d9-c6dd8b8536d0" />
